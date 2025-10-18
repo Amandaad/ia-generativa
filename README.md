@@ -4,7 +4,7 @@
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://www.heygen.com/pt-br/avatars
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
