@@ -1,16 +1,17 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto Podcast confecionado no chatGPt e no Gemini e aprimorado no Avatar Desenvolvido no #Heygen
 
 ## 🤖 Tecnologias Utilizadas
 https://www.heygen.com/pt-br/avatars
 
 ## 🧐 Processo de Criação
-podcast com um avatar e prompt pelo gemini
+podcast com um avatar feito no heygen e prompt pelo gemini
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Podcast excplicando sobre ia generativa 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+ Um grande desafio pra mim na area de marketing digital .Faço projetos Desenvolvendo sistemas.
+ Experiência que só acrescenta na minha carreira.
