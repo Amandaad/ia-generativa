@@ -7,7 +7,7 @@ Breve descrição do seu projeto
 https://www.heygen.com/pt-br/avatars
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+podcast com um avatar e prompt pelo gemini
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
