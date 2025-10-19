@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+#  Podcast: Amanda Explica – IA Generativ
 
 ## 📒 Descrição
 Projeto Podcast confecionado no chatGPt e no Gemini e aprimorado no Avatar Desenvolvido no #Heygen
